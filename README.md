@@ -1,5 +1,4 @@
 ### Welcome 👋
-<a href="https://stackoverflow.com/users/14308832/pengchai"><img src="https://stackoverflow.com/users/flair/14308832.png?theme=dark" width="208" height="58" alt="profile for Pengchai at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Pengchai at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 ### C. Penchai 
 <!--
