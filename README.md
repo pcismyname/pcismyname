@@ -24,6 +24,5 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pcismyname&show_icons=true&theme=dark&layout=compact&langs_count=8&hide=jupyter+notebook&&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=pcismyname)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=pcismyname&theme=dark)](https://git.io/streak-stats)
 
